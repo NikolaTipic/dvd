@@ -80,7 +80,7 @@ const Dashboard = ({logoutUser, user}) => {
             
             }}>
 
-                <StyledFormArea style={{backgroundColor: "transparent", border: "1px solid #fff", marginTop: "15%"}}>
+                <StyledFormArea style={{backgroundColor: "transparent", border: "1px solid #fff"}}>
                     <StyledTitle size={25}>
                         Dobrodošao, {user.name}
                     </StyledTitle>
